@@ -4,8 +4,8 @@
  * USAGE:
  * php index.php mysql new - create a default schema on MySQL
  * php index.php pgsql new - create a default schema on PostgreSQL
- * php index.mysql php - execute a query on MySQL
- * php index.pgsql php - execute a query on PostgreSQL
+ * php index.php mysql - execute a query on MySQL
+ * php index.php pgsql - execute a query on PostgreSQL
  */
 
 const SIZE = 500;
